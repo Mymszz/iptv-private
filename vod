@@ -1,0 +1,114 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",SPACE JAM  
+http://chilp.it/ecc38b9 
+ 
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",MAT BOND 2021  
+https://botxdirect.herokuapp.com/153744019547450785568445404/Mat_Bond_Malaya_2021_1080p_PPVHD_Malay_Hardsub_@portalmalay.mp4 
+ 
+#EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",BLACK WIDOW 2021  
+http://chilp.it/aaebd39 
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",penunggangAgama2021 
+https://botxdirect.herokuapp.com/221038701159035062760297436/Penunggang.Agama.2.2021.1080p.WEB-DL.mkv
+ 
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",Fast9 
+http://chilp.it/c58017a 
+ 
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", TheKissingBooth3 
+http://chilp.it/a2a889b 
+ 
+#EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",VIVO chilp 
+http://chilp.it/c74a110
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", RogueHostage
+http://chilp.it/b0696cd
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", Hutang2d
+https://botxdirect.herokuapp.com/152043451104783649424069596/Hutang.2D.2021.1080p.WEBRip-ms.en-PENCURiMOViE.CYOU.mkv
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", Mortdecai (2015) malaysub
+https://botxdirect.herokuapp.com/152039909329921497190159324/Mortdecai%20(2015)%20malay%20sub.mp4
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", SnakeEye2021
+http://chilp.it/0682b4c
+
+#EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",ESCAPE ROOM2
+https://storage.googleapis.com/sdakjwhdkjawnd/3a/3ab11eb04d6e187e90a944598e8b0c32.mp4
+
+#EXTINF:-1 group-title="VOD idmpc"="724" tvg-logo="", dont breathe 2 (4k)
+https://usa7-nas01.shegu.net/vip/p1/movie_mp4_h264/2021/3/2/39432/movie.39432.2021.4K.H264.20210911052946.mp4?KEY1=-hujHZwC51TQGsdow-roGA&KEY2=1632235253
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", Kampung Pisang Kita Setandan
+http://dl.tiapp.ga/160071990634496110154798044/@Kande76_Kampong.Pisang.Kita.Setandan.2021.720p.WEB-DL.mp4
+
+#EXTINF:-1 group-title="VOD rtm" tvg-logo="", Ayat ayat halal
+https://rtmlfd01.secureswiftcontent.com/423dadfa286b4593e8313045e889b1dc/video-avc1-4.m3u8
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", hotel ep5
+http://dl.tiapp.ga/174196219849877744797930460/The.Hotel.EP5@malaydramaz.mp4
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", hotel ep6
+http://dl.tiapp.ga/174196662571735513827169244/The.Hotel.EP6@malaydramaz.mp4
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", MLM2021
+http://dl.tiapp.ga/208595191689697252784002012/Maharaja.Lawak.Mega.2021.Minggu1@malaydramaz.mp4
+
+LIVE CHANNEL
+
+#EXTINF:-1 group-title="Astro My" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png", Astro Ria HD
+http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
+
+#EXTINF:-1 group-title="VOD RTM" tvg-logo="", rtm test
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-720.m3u8|Referer=https://rtmklik.rtm.gov.my 
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHegYMfekNOWQfCDZ4LBCNyk)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
+
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 Backup
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHegYMfekNOWQfCDZ4LBCNyk)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
+
+#EXTINF:-1 group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png", Parlimen Malaysia 1080p
+https://rtmlive04.secureswiftcontent.com/rtmchannel/04-1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png", Parlimen Malaysia 
+https://rtmlive04.secureswiftcontent.com/rtmchannel/04-720.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="Astro Warna.my" tvg-name="AstroWarna.my" tvg-logo=https://i.postimg.cc/L4chmgTD/download-80.png" group-title="Malaysia" ,Astro Warna 
+http://iptv.tvmalaysia.cc:80/penang189/penang189/6740
+
+#EXTINF:-1 tvg-id="Astro Warna.my" tvg-name="AstroWarna.my" tvg-logo=https://i.postimg.cc/L4chmgTD/download-80.png" group-title="Malaysia" ,Astro Warna Link 2
+http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc&ct2=1628042335734&cs=2e8ceb475706d6bfb07120febb18148
+
+#EXTINF:-1 group-title="test umi" tvg-logo="https://i.imgur.com/Fy8MZv6.png", Awesome TV
+http://mynxg.top:8080/RlmYvjo2lv/35TnxNAb10/15903?play_token=WxMdxx4DUW
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IN: & PICTURE HD" tvg-logo="" group-title="Live: India",VIP IN: & PICTURE HD
+http://clientportal-proiptv.club:8080/2XDayjhtDUzqNHPg/msnXXMHUDT1QKxpp/8130
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP astro" tvg-logo="" group-title="Live: astro",Tset badminton live
+https://spottbadmintoneu-lh.akamaihd.net/i/spottbadmintoneu25_1@330280/index_2000_av-b.m3u8?cid=28736&mid=29854270&ecid=1664794&pid=5&dtid=1&ident=779901312838&content=1033830&path=spott_badmintoneurope_16&sd=6&set-segment-duration=quality&rebase=on&hdntl=exp=1634990108~acl=%2fi%2fspottbadmintoneu25_1%40330280%2f*~data=hdntl~hmac=8082b1f4266c310d45ecb50f43030289da929e42637f48895c4428fd8588ad24
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP astro" tvg-logo="" group-title="Live: astro",TEST ASTROLINK sport mp4
+https://restarttv-playback.astro.com.my/cdvr-restartwvdaf/eid/1634400000-601/irid/0/streamid/601/isid/601/batchid/999999/periodid/Byhnru5yR0GnbEqFi_QLSA/repid/54005_video_seg_auto/type/v/vcodec/avc1.640029/width/1280/height/720/vpid/163/sps/67640029AC3CA5014016EC050808080A00000300020000030065C0C000B71A00022551F89F05/pps/68EF7525/sufx/null/segd/540000/pts/init.mp4
+
+#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV iptvteam
+http://iptv-team.tk:2082/live/daaakma008/daaakma009/16.ts
+
+#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV (60.54)
+http://60.54.140.2:80/hls/awesometv.m3u8
+
+#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV nasvpn
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/180
+
+#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV iptvMalay
+http://iptv.tvmalaysia.cc:80/297340/297340/9016
+
+#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV foctv
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/387
+
+#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV ktiptv
+https://ktiptv.co:443/2229/2229/25828
+
+#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myAwesome" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",123 Awesome TV tvciplak
+http://tvciplak.com:2082/live/iezy/iezy/16.ts
